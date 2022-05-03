@@ -1,0 +1,22 @@
+{
+  "name": "spiderverse",
+  "version": "1.0.0",
+  "description": "Practica TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules ./node_modules/jest/bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CristopherSandoval/Spiderverse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CristopherSandoval/Spiderverse/issues"
+  },
+  "homepage": "https://github.com/CristopherSandoval/Spiderverse#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
